@@ -1,0 +1,155 @@
+{
+    "Quizhomedata":
+      {
+        "img": "https://esportsgen.com/wp-content/uploads/2021/06/7793d6be1d182149915ee40070d01cdba3a39550-1200x600.jpeg",
+        "title": "Participate and win Diamonds",
+        "desc": "Fire quiz - free diamonds.\nAccept the questions and get your prize ",
+        "desc1": "press the start button to win your 7200 diamonds if you answer all the questions correctly !! ",
+        "btntxt": "Win Now!",
+        "isgood": false,
+        "isgod": true
+      },
+
+    "Moregame": [
+
+        
+         
+      {
+        "image": "Stars 1",
+        "Name":"Quiz Diamond2",
+        "Description":"Quiz Diamond2jjahhdhdhd",
+        "InstallNum":"100k",
+        "AppUrl":"https://play.google.com/store/apps/details?id=com.blackpinkpiano.tiles"
+
+         },
+         {
+        "image": "Stars 1",
+        "Name":"Quiz Diamond2",
+        "Description":"Quiz Diamond2jjahhdhdhd",
+        "InstallNum":"100k",
+        "AppUrl":"https://play.google.com/store/apps/details?id=com.blackpinkpiano.tiles"
+
+         },
+         {
+        "image": "Stars 2",
+        "Name":"Quiz Diamond2",
+        "Description":"Quiz Diamond2jjahhdhdhd",
+        "InstallNum":"100k",
+        "AppUrl":"https://play.google.com/store/apps/details?id=com.blackpinkpiano.tiles"
+
+         }
+
+        ],
+
+        "spin": [
+
+        {
+         "image":"https://drive.google.com/uc?export=download&id=1ZcUf7g-79W0NqNMa9pcwUYXDansH7BIv",
+        "title": "skin",
+        "amount":45
+         },
+         {
+         "image":"https://drive.google.com/uc?export=download&id=1ZcUf7g-79W0NqNMa9pcwUYXDansH7BIv",
+        "title": "skin",
+        "amount":45
+         },
+          {
+         "image":"https://drive.google.com/uc?export=download&id=1ZcUf7g-79W0NqNMa9pcwUYXDansH7BIv",
+        "title": "skin",
+        "amount":45
+         },
+          {
+         "image":"https://drive.google.com/uc?export=download&id=1ZcUf7g-79W0NqNMa9pcwUYXDansH7BIv",
+        "title": "skin",
+        "amount":45
+         },
+
+          {
+         "image":"https://drive.google.com/uc?export=download&id=1ZcUf7g-79W0NqNMa9pcwUYXDansH7BIv",
+        "title": "skin",
+        "amount":45
+         },
+         {
+         "image":"https://drive.google.com/uc?export=download&id=1ZcUf7g-79W0NqNMa9pcwUYXDansH7BIv",
+        "title": "skin",
+        "amount":45
+         },
+         {
+         "image":"https://drive.google.com/uc?export=download&id=1ZcUf7g-79W0NqNMa9pcwUYXDansH7BIv",
+        "title": "skin",
+        "amount":45
+         },
+         {
+         "image":"https://drive.google.com/uc?export=download&id=1ZcUf7g-79W0NqNMa9pcwUYXDansH7BIv",
+        "title": "skin",
+        "amount":45
+         },
+         {
+         "image":"https://drive.google.com/uc?export=download&id=1ZcUf7g-79W0NqNMa9pcwUYXDansH7BIv",
+        "title": "skin",
+        "amount":45
+         },
+         {
+         "image":"https://drive.google.com/uc?export=download&id=1ZcUf7g-79W0NqNMa9pcwUYXDansH7BIv",
+        "title": "skin",
+        "amount":45
+         },
+         {
+         "image":"https://drive.google.com/uc?export=download&id=1ZcUf7g-79W0NqNMa9pcwUYXDansH7BIv",
+        "title": "skin",
+        "amount":45
+         },
+         {
+         "image":"https://drive.google.com/uc?export=download&id=1ZcUf7g-79W0NqNMa9pcwUYXDansH7BIv",
+        "title": "skin",
+        "amount":45
+         }
+
+        ],
+
+     "Questions": [
+      {
+        "question": "Garena Free Fire Gameplay Quiz",
+        "Answer":[
+         { "answer":"Free Fire Snipergrounds" },
+         { "answer":"Free Fire Wargrounds" },
+         { "answer":"Free Fire Playgrounds" },
+         { "answer":"Free Fire Battlegrounds" } ],
+        "correcte":2
+
+      },
+       {
+        "question": "cdiojciosjoicjaax",
+        "Answer":[
+         { "answer":"euidfhiughciuhgdsiuch" },
+         { "answer":"alediosoichjdosihjcx" },
+         { "answer":"dscoisjdiocoisd" },
+         { "answer":"cdsijciojsdiocjoisd" } ],
+        "correcte":1
+
+      },
+       {
+        "question": "dciodsjcoidsjcods",
+        "Answer":[
+         { "answer":"cdushciudshciudsh" },
+         { "answer":"dsijciodsjcoidc" },
+         { "answer":"ijsoicjiodsjcoids" },
+         { "answer":"cdopjdpsojckpodskc" } ],
+        "correcte":2
+
+      },{
+        "question": "Fouaad",
+        "Answer":[
+         { "answer":"A" },
+         { "answer":"B" },
+         { "answer":"C" },
+         { "answer":"D" } ],
+        "correcte":0
+
+      }
+
+    ]
+
+
+
+}
